@@ -1,14 +1,14 @@
 {
-  "name": "frida-any-promise",
+  "name": "ainakan-any-promise",
   "version": "2.0.0",
   "authors": [
-    "Frida Developers"
+    "Ainakan Developers"
   ],
-  "description": "Frida compatibility shim for the “any-promise” module",
+  "description": "Ainakan compatibility shim for the “any-promise” module",
   "keywords": [
-    "frida"
+    "ainakan"
   ],
-  "homepage": "https://www.frida.re",
+  "homepage": "https://www.ainakan.re",
   "main": "index.js",
   "files": [
     "/index.js"
@@ -16,9 +16,9 @@
   "license": "LGPL-2.0 WITH WxWindows-exception-3.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/frida-any-promise.git"
+    "url": "https://github.com/ainakan/ainakan-any-promise.git"
   },
   "bugs": {
-    "url": "https://github.com/frida/frida-any-promise/issues"
+    "url": "https://github.com/ainakan/ainakan-any-promise/issues"
   }
 }
